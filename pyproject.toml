@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "orienteering-shiga-information"
+version = "0.1.0"
+description = ""
+authors = ["Takashi Ichihashi <ta.ichihashi@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+sphinx = "*"
+myst-parser = "*"
+sphinx-wagtail-theme = "*"
+sphinx-markdown-tables = "*"
+sphinxcontrib-actdiag = "*"
+sphinxcontrib-applehelp = "*"
+sphinxcontrib-blockdiag = "*"
+sphinxcontrib-seqdiag = "*"
+sphinxcontrib-devhelp = "*"
+sphinxcontrib-htmlhelp = "*"
+sphinxcontrib-jquery = "*"
+sphinxcontrib-jsmath = "*"
+sphinxcontrib-nwdiag = "*"
+
+[tool.poetry.group.dev.dependencies]
+sphinx-autobuild = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
