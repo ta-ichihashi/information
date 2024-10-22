@@ -123,7 +123,7 @@ html_theme_options = dict(
     logo = "img/shiga-o-flag.svg",
     logo_alt = "Orienteering-Shiga",
     logo_height = 59,
-    logo_url = "/",
+    logo_url = "/information/",
     logo_width = 105,
     github_url = "https://github.com/orienteering-shiga/information/blob/main/source/"
 )
