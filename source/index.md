@@ -8,6 +8,7 @@
 :numbered: 0
 :caption: 目次
 
+sponsorship/index
 terrain/index
 events/index
 ```

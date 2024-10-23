@@ -1,7 +1,8 @@
-# 雨山文化運動公園
+# 湖南市 雨山文化運動公園
 
-```{tip}
-雨山文化運動公園概要：[https://www.biwako-visitors.jp/spot/detail/812/](https://www.biwako-visitors.jp/spot/detail/812/)
+```{admonition} 公式サイト:
+:class: note
+[https://konan-ameyama.jp/](https://konan-ameyama.jp/)
 ```
 
 以下の手順で処理してください。
