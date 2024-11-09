@@ -48,7 +48,6 @@ extensions = [
     'sphinxcontrib.blockdiag',
     'sphinxcontrib.seqdiag',
     'sphinxcontrib.actdiag',
-    'sphinxcontrib.nwdiag',
     ]
 
 source_suffix = {
