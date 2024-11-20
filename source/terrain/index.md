@@ -16,6 +16,7 @@
 :caption: 目次
 
 event_application
+../kibougaoka/index
 ../gendai/index
 ../ameyama/index
 ```

@@ -48,6 +48,7 @@ extensions = [
     'sphinxcontrib.blockdiag',
     'sphinxcontrib.seqdiag',
     'sphinxcontrib.actdiag',
+    'docxbuilder'
     ]
 
 source_suffix = {
@@ -128,6 +129,26 @@ html_theme_options = dict(
 )
 
 
+# Docx builder extensions
+
+docx_documents = [
+    ('index', 'Shiga-pref_orienteering_assosiation_info.docx', {'title': '滋賀県オリエンテーリング協会ご案内',
+     'creator': '滋賀県オリエンテーリング協会事務局', 'subject': '滋賀県オリエンテーリング協会ご案内', }, True),
+]
+
+docx_style = '_templates/template.docx'
+
+docx_coverpage = True
+docx_pagebreak_before_section = 1
+docx_pagebreak_after_table_of_contents = 0
+docx_table_options = {
+    'landscape_columns': 6,      #
+    'in_single_page': True,      #
+    'row_splittable': True,      #
+    'header_in_all_page': True,  #
+}
+
+
 
 # Myst extensions
 myst_enable_extensions = [
@@ -146,22 +167,6 @@ myst_enable_extensions = [
     "substitution",
     "tasklist",
 ]
-
-docx_documents = [
-  ('index', '滋賀県オリエンテーリング協会ご案内.docx', { 'title': '滋賀県オリエンテーリング協会ご案内', 'creator': '滋賀県オリエンテーリング協会事務局', 'subject': '滋賀県オリエンテーリング協会ご案内', }, True),
-]
-
-docx_style = '_templates/orienteeringf_document_template.docx'
-
-docx_coverpage = True
-docx_pagebreak_before_section = 1
-docx_pagebreak_after_table_of_contents = 0
-docx_table_options = {
-  'landscape_columns': 6,      #
-  'in_single_page': True,      #
-  'row_splittable': True,      #
-  'header_in_all_page': True,  #
-}
 
 
 #latex_docclass = {'manual': 'jsbook'}

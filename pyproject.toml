@@ -19,6 +19,7 @@ sphinxcontrib-seqdiag = "*"
 sphinxcontrib-devhelp = "*"
 sphinxcontrib-htmlhelp = "*"
 sphinxcontrib-jquery = "*"
+docxbuilder = "*"
 
 [tool.poetry.group.dev.dependencies]
 sphinx-autobuild = "*"
