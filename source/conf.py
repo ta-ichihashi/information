@@ -30,7 +30,7 @@ class Author(Enum):
 titles = ['滋賀県オリエンテーリング協会']
 
 project = '滋賀県オリエンテーリング協会'
-copyright = '2024, 滋賀県オリエンテーリング協会事務局'
+copyright = '2024, 滋賀県オリエンテーリング協会事務局 <orienteering.shiga.contact@gmail.com>'
 author = Author.author_native.value
 
 # The full version, including alpha/beta/rc tags
@@ -125,9 +125,15 @@ html_theme_options = dict(
     logo_height = 59,
     logo_url = "/information/",
     logo_width = 105,
-    github_url = "https://github.com/orienteering-shiga/information/blob/main/source/"
+    github_url = "https://github.com/orienteering-shiga/information/blob/main/source/",
+    header_links = "イベント開催届提出|/terrain/event_application.html, 後援依頼|/sponsorship/index.html, 滋賀県協会開催イベント|/events/"
 )
 
+html_sidebars = {"**": [
+    "searchbox.html",
+    "globaltoc.html",
+    "contact.html",    # Your template here
+]}
 
 # Docx builder extensions
 
