@@ -131,8 +131,8 @@ html_theme_options = dict(
 
 html_sidebars = {"**": [
     "searchbox.html",
+    "contact.html",
     "globaltoc.html",
-    "contact.html",    # Your template here
 ]}
 
 # Docx builder extensions
