@@ -5,8 +5,8 @@
 ```{toctree}
 :caption: 目次
 
-overview
-program
+overview.md
+program.md
 ```
 
 ```{admonition} みどころ
