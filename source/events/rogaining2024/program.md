@@ -123,7 +123,7 @@
 * 京阪電車の初乗り料金は170円、今回のエリアで最長区間を使用した場合は240円です。交通系ICカードが使用できます。
 * 今回のエリアで使用できる一日乗車券「びわ湖１日観光チケット」が700円（小児350円）で販売されています。京阪山科、四宮、京阪石山、京阪膳所、びわ湖浜大津、京阪大津京、近江神宮前、坂本比叡山口の各駅有人改札で購入できますので、必要に応じてご購入ください。
 
-  https://www.keihan.co.jp/traffic/valueticket/detail/biwako-1day.html
+  [https://www.keihan.co.jp/traffic/valueticket/detail/biwako-1day.html](https://www.keihan.co.jp/traffic/valueticket/detail/biwako-1day.html)
 ```
 
 
