@@ -1,5 +1,12 @@
 # プログラム
 
+```{admonition} おしらせ
+:class: caution
+
+2月12日
+  : 会場の都合により受付開始時刻を **8:30から9:00へ**変更しました。スタート時刻は変更していませんので、受付からスタートまでの時間が短くなっていますので、着替え等速やかに実施頂くようにお願いします。詳しくは {ref}`section_event_rogaining2024_program_flow` をご覧ください。
+```
+
 ## 会場
 
 大津市勤労福祉センター 4階 研修室1, 研修室2
@@ -41,6 +48,7 @@
       * お金
       * 不整地を走ることができるシューズ、モバイルバッテリー
 
+(section_event_rogaining2024_program_flow)=
 ## 当日のながれ
 
 ![](assets/time_table.png){align=center}
