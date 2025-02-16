@@ -1,4 +1,4 @@
-[tool.poetry]
+[project]
 name = "orienteering-shiga-information"
 version = "0.1.0"
 description = ""
@@ -6,25 +6,19 @@ authors = ["Takashi Ichihashi <ta.ichihashi@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 package-mode = false
-
-[tool.poetry.dependencies]
-python = "^3.10"
-sphinx = "*"
-myst-parser = "*"
-sphinx-wagtail-theme = "*"
-sphinx-markdown-tables = "*"
-sphinxcontrib-actdiag = "*"
-sphinxcontrib-applehelp = "*"
-sphinxcontrib-blockdiag = "*"
-sphinxcontrib-seqdiag = "*"
-sphinxcontrib-devhelp = "*"
-sphinxcontrib-htmlhelp = "*"
-sphinxcontrib-jquery = "*"
-docxbuilder = "*"
-
-[tool.poetry.group.dev.dependencies]
-sphinx-autobuild = "*"
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.12"
+dependencies = [
+    "sphinx",
+    "myst-parser",
+    "sphinx-wagtail-theme",
+    "sphinx-markdown-tables",
+    "sphinxcontrib-actdiag",
+    "sphinxcontrib-applehelp",
+    "sphinxcontrib-blockdiag",
+    "sphinxcontrib-seqdiag",
+    "sphinxcontrib-devhelp",
+    "sphinxcontrib-htmlhelp",
+    "sphinxcontrib-jquery",
+    "docxbuilder",
+    "sphinx-autobuild>=2024.10.3",
+]
