@@ -1,4 +1,4 @@
-# 滋賀県協会開催イベントのお知らせ
+# 滋賀県オリエンテーリング協会開催イベント
 
 
 ```{toctree}
@@ -7,4 +7,5 @@
 :caption: 目次
 
 rogaining2024/index
+rogaining2025/index
 ```
