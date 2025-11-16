@@ -20,8 +20,8 @@
     : [えきまちテラス長濱　3F イベント広場](https://www.ekimachinagahama.com/space/m3f-event-square/)
 
 
-エントリー開始日
-    : 2025年11月1日
+エントリー開始日(予定)
+    : 2025年11月25日
 
 
 ```{toctree}
