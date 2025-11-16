@@ -127,7 +127,7 @@
 
 大会前の情報提供
     : * Bulletin3（プログラム）は大会1 週間前までに、大会Web サイトにて公開します。必ずご確認ください。
-      * 今後の案内は[大会 Web サイト](https://japan-o-entry.com/event/view/2232)をご覧ください。随時情報提供します。
+      * 今後の案内は[大会 Web サイト](https://orienteering-shiga.github.io/information/events/rogaining2025/index.html#event-rogaining2025-notice)をご覧ください。随時情報提供します。
       * 個別のお問い合わせに関しては、{ref}`section_contact_address` へメールでお問い合わせください。
 
 免責
