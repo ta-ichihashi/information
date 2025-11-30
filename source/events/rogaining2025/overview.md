@@ -128,7 +128,7 @@
 大会前の情報提供
     : * Bulletin3（プログラム）は大会1 週間前までに、大会Web サイトにて公開します。必ずご確認ください。
       * 今後の案内は[大会 Web サイト](https://orienteering-shiga.github.io/information/events/rogaining2025/index.html#event-rogaining2025-notice)をご覧ください。随時情報提供します。
-      * 個別のお問い合わせに関しては、{ref}`section_contact_address` へメールでお問い合わせください。
+      * 個別のお問い合わせに関しては、[shigasummer@gmail.com](mailto:shigasummer@gmail.com) へメールでお問い合わせください。
 
 免責
     : * 参加者が自分自身または第三者へ与えた事故、損傷、損害について、主催者は一切責任を負いません。
