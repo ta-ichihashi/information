@@ -12,6 +12,7 @@
 #
 import os
 import sys
+import sphinx_nameko_theme
 sys.path.insert(0, os.path.abspath('.'))
 from enum import Enum
 
@@ -109,8 +110,13 @@ html_theme_path = [os.path.dirname(mozilla_sphinx_theme.__file__)]
 
 """
 # For Sphinx Wagtail Theme
-extensions.append("sphinx_wagtail_theme")
-html_theme = 'sphinx_wagtail_theme'
+#extensions.append("sphinx_wagtail_theme")
+#html_theme = 'sphinx_wagtail_theme'
+
+html_theme = 'nameko'
+html_theme_path = [sphinx_nameko_theme.get_html_theme_path()]
+
+
 # These folders are copied to the documentation's HTML output.
 html_static_path = ["_static"]
 

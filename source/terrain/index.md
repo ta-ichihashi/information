@@ -12,8 +12,6 @@
 
 ```{toctree}
 :maxdepth: 2
-:numbered: 2
-:caption: 目次
 
 event_application
 ../kibougaoka/index

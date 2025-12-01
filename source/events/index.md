@@ -2,9 +2,7 @@
 
 
 ```{toctree}
-:maxdepth: 2
-:numbered: 0
-:caption: 目次
+:maxdepth: 1
 
 rogaining2024/index
 rogaining2025/index

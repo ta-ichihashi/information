@@ -9,9 +9,6 @@
 
 前日には長浜市で[パークOツアー in 関西 滋賀大会](https://japan-o-entry.com/event/view/2231)が行われます。
 
-主催
-    : 滋賀県オリエンテーリング協会s
-
 
 開催予定日
     : 2026年2月22日（日）
@@ -19,10 +16,16 @@
 会場
     : [えきまちテラス長濱　3F イベント広場](https://www.ekimachinagahama.com/space/m3f-event-square/)
 
+エントリー期間
+    : 2025年12月1日 ～ 2026年2月8日
 
-エントリー開始日(予定)
-    : 2025年11月25日
+```{csv-table}
+:header:  
+:widths: 2,8
 
+2025-12-01, エントリ受付開始しました。 くわしくは{ref}`section_entry`をごらんください。
+2025-10-02, プロジェクト開始
+```
 
 ```{toctree}
 :caption: 目次
@@ -38,15 +41,3 @@ overview.md
 [shigasummer@gmail.com](mailto:shigasummer@gmail.com)
 ```
 
-
-(event_rogaining2025_notice)=
-## ニュース
-
-
-
-```{csv-table}
-:widths: 2,8
-
-2025-10-02, プロジェクト開始
-2025-12-01, エントリ受付開始しました。 くわしくは{ref}`section_entry`をごらんください。
-```
