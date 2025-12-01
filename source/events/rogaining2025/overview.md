@@ -72,11 +72,15 @@
 5時間の部表彰式
     : 15:30
 
+(section_entry)=
 ## 参加費とエントリー
 
 
 ```{admonition} お申込み先
-2025年11月25日にSports entryサイトにて受付開始予定です。しばらくおまちください。
+[Sports Entryのサイト](https://www.sportsentry.ne.jp/event/t/103254)からお申込みください。
+
+お申込み期限
+    : 2026年2月8日（日）
 ```
 
 

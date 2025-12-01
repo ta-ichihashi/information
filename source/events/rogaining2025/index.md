@@ -42,7 +42,11 @@ overview.md
 (event_rogaining2025_notice)=
 ## ニュース
 
+
+
 ```{csv-table}
+:widths: 2,8
 
 2025-10-02, プロジェクト開始
+2025-12-01, エントリ受付開始しました。 くわしくは{ref}`section_entry`をごらんください。
 ```
