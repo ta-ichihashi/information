@@ -27,6 +27,7 @@
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.903839686173!2d136.26359241187131!3d35.37894324640549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60022917e6e0db03%3A0xc6f6a19dbaa64338!2z44GI44GN44G-44Gh44OG44Op44K56ZW35rWc!5e1!3m2!1sja!2sjp!4v1759411835946!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       ```
 
+(section_competition)=
 ## 競技クラスと部門
 
 下記グループクラスそれぞれ **3時間** の部、 **5時間**  の部の競技部門があります。
@@ -42,6 +43,7 @@
 ```{admonition} 注意事項
 :class: attention
 * 競技中公共交通期間の利用は禁止とします。
+* 競技中の移動手段は歩行または走行のみとします。
 * チェックポイントに有料個所はありませんがコース上有料個所を通ることは妨げません。
 * チームごとに上記要件と競技者人数要件を満たす必要があります。
 * 保護者が同一チームに不在のすべての未成年(18歳未満)の方は保護者の承諾を得てください。
