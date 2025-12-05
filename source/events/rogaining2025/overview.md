@@ -82,7 +82,11 @@
 
 
 ```{admonition} お申込み先
-[Sports Entryのサイト](https://www.sportsentry.ne.jp/event/t/103254)からお申込みください。
+
+以下のいずれかからお申込みください。
+
+* [Japn-O-entrY](https://japan-o-entry.com/event/view/2280)
+* [Sports Entry](https://www.sportsentry.ne.jp/event/t/103254)
 
 お申込み期限
     : 2026年2月8日（日）
