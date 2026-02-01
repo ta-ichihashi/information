@@ -24,6 +24,10 @@ jobs:
         env:
           PYTHONPATH: ${{ github.workspace }}
         run: uv run sphinx-build source _build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '_build/html'
   deploy:
     environment:
       name: github-pages
