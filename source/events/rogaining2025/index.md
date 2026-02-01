@@ -14,7 +14,8 @@
     : 2026年2月22日（日）
 
 会場
-    : [えきまちテラス長濱　3F イベント広場](https://www.ekimachinagahama.com/space/m3f-event-square/)
+    : {strike}`えきまちテラス長濱　3F イベント広場`
+    : [えきまちテラス長濱　1F 長浜カイコー](https://www.ekimachinagahama.com/space/m3f-event-square/)
 
 エントリー期間
     : 2025年12月1日 ～ 2026年2月8日
@@ -23,6 +24,7 @@
 :header:  
 :widths: 2,8
 
+2026-02-01, "会場を野外の3Fイベント広場から、1Fの長浜カイコーへ変更しました。"
 2025-12-03, "要項の{ref}`section_competition`を改訂しました。競技の「注意事項」に以下を追加しました。
  * 競技中の移動手段は歩行または走行のみとします。"
 2025-12-01, エントリ受付開始しました。 くわしくは{ref}`section_entry`をごらんください。
@@ -33,6 +35,7 @@
 :caption: 目次
 
 overview.md
+program.md
 ```
 
 ```{admonition} 注意事項

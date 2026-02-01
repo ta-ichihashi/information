@@ -48,6 +48,7 @@ extensions = [
     'sphinxcontrib.blockdiag',
     'sphinxcontrib.seqdiag',
     'sphinxcontrib.actdiag',
+    'sphinxnotes.strike',
     'docxbuilder'
     ]
 

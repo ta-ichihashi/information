@@ -20,5 +20,6 @@ dependencies = [
     "sphinxcontrib-htmlhelp",
     "sphinxcontrib-jquery",
     "docxbuilder",
-    "sphinx-autobuild>=2024.10.3",
+    "sphinxnotes-strike",
+    "sphinx-autobuild",
 ]
