@@ -1,7 +1,9 @@
-name: Docs
+name: Deploy documentation to GitHub Pages
 on: [push, pull_request, workflow_dispatch]
 permissions:
     contents: write
+    pages: write
+    id-token: write
 jobs:
   build:
     name: python
