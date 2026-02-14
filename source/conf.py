@@ -45,9 +45,6 @@ extensions = [
     'myst_parser',
     'japanesesupport',
     'sphinx.ext.githubpages',
-    'sphinxcontrib.blockdiag',
-    'sphinxcontrib.seqdiag',
-    'sphinxcontrib.actdiag',
     'sphinxnotes.strike',
     'docxbuilder'
     ]
